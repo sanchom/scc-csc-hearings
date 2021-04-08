@@ -2,19 +2,12 @@
 <channel>
 <title>Unofficial Podcast Feed of Supreme Court of Canada Hearings</title>
 <language>en-us</language>
-<itunes:summary>
-This podcast feed merely points your podcast player to the webcast audio of hearings that are hosted by the Supreme Court of Canada. This feed uses the "floor" feed, that is, not translated into either English or French, but whatever language happens to have been spoken in the Court.
-</itunes:summary>
-<itunes:keywords>
-Supreme Court of Canada, law, oral argument, hearings, Canada
-</itunes:keywords>
 <description>
 This podcast feed merely points your podcast player to the webcast audio of hearings that are hosted by the Supreme Court of Canada. This feed uses the "floor" feed, that is, not translated into either English or French, but whatever language happens to have been spoken in the Court.
 </description>
 
 <item>
 <title>City of Toronto v. Attorney General of Ontario</title>
-<itunes:title>City of Toronto v. Attorney General of Ontario</itunes:title>
 <enclosure url="https://video.isilive.ca/scc/2021/2021-03-16--38921-floor.mp3" length="319102958" type="audio/mpeg"/>
 <guid isPermaLink="false">https://video.isilive.ca/scc/2021/2021-03-16--38921-floor.mp3</guid>
 <pubDate>Tue, 16 Mar 2021 00:00:00 CET</pubDate>
